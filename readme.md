@@ -7,9 +7,3 @@ A high-performance Human-Computer Interaction (HCI) system using **MediaPipe** f
 * **Dynamic Volume Control:** Vertical displacement tracking for volume adjustment.
 * **SQL Logging:** Every action is logged to a relational database for audit trails.
 * **98% Accuracy:** Scale-invariant heuristics based on palm-to-finger ratios.
-
-## 🛠️ Setup
-1. Clone the repo: `git clone https://github.com/yourusername/hercules.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Initialize the database using `schema.sql`.
-4. Run the system: `python main.py`
